@@ -2,5 +2,5 @@ first edition
 second edition
 third edition
 issue resolved
-hotfix my solution
-
+hotfix teams solution 2
+New function added
